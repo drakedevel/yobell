@@ -3,9 +3,9 @@ Technology choices in this application were made for maximum entertainment, not 
 This is a program for implementing a web-and-yo doorbell. You'll need two Yo API accounts:
 
 1. RESIDENTS
- * Callback: http://path.to.this.app/xyo
+ * Callback: http://this.app.example.com/xyo
 2. DOORBELL
- * Callback: http://path.to.this.app/yo
+ * Callback: http://this.app.example.com/yo
 
 Put the RESIDENTS key in config.js (using config.js.example). Make everyone in the house Yo at RESIDENTS.
 
