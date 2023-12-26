@@ -1,3 +1,6 @@
+[Yo](https://en.wikipedia.org/wiki/Yo_(app)) has shut down, so this repository has been archived.
+
+### Original Readme
 Technology choices in this application were made for maximum entertainment, not because the author believes they are good.
 
 This is a program for implementing a web-and-yo doorbell. You'll need two Yo API accounts:
